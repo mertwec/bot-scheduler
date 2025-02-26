@@ -28,7 +28,9 @@ async def main():
         [
             BotCommand(command="start", description="Run bot"),
             BotCommand(command="add", description="add message to scheduler. TODO"),
-            BotCommand(command="send", description="send default cron_message from schedulle"),
+            BotCommand(
+                command="send", description="send default cron_message from schedulle"
+            ),
         ]
     )
 

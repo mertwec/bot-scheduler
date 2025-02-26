@@ -1,7 +1,10 @@
 # Bot - scheduler
 
 
-This project is an example of sending messages on a schedule using the `aiogram` library and `APScheduler`.
+This project is an example of sending messages on a schedule using the [`aiogram`](https://docs.aiogram.dev/en/v3.17.0/index.html) library and [`APScheduler`](https://pypi.org/project/APScheduler/).
+
+## 
+
 
 
 ## install and run
